@@ -8,7 +8,7 @@
 - When the child exits, the parent prints its role and the PID of the child. It further says that the child has exited. (4 marks)
 - The parent process exits. (2 mark)
 
-> **Note:**
+> **Note**
 > The parent and child process must have the same source code.
 
 ## Mandatory instructions
