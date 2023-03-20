@@ -9,7 +9,7 @@
 - The parent process exits. (2 mark)
 
 > **Note:**
-The parent and child process must have the same source code.
+> The parent and child process must have the same source code.
 
 ## Mandatory instructions
 Use `script` command to record compilation of the code and executions of both processes.
