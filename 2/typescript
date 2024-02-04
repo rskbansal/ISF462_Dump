@@ -1,0 +1,22 @@
+Script started on 2023-02-28 15:48:25+05:30 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+]0;rskbansal@tuf: ~/Documents/NetProg/2[01;32mrskbansal@tuf[00m:[01;34m~/Documents/NetProg/2[00m$ gcc -o output main.c 
+]0;rskbansal@tuf: ~/Documents/NetProg/2[01;32mrskbansal@tuf[00m:[01;34m~/Documents/NetProg/2[00m$ ./output
+Parent PID: 19350
+Child PID: 19351
+
+I am the parent process
+My PID is : 19350
+Enter an integer for the child process : 45
+
+I am the child process
+My PID is : 19351
+I recieved 45 from the parent
+Enter an integer for the parent process : 69
+
+I am the parent process
+My PID is : 19350
+I recieved 69 from the child
+]0;rskbansal@tuf: ~/Documents/NetProg/2[01;32mrskbansal@tuf[00m:[01;34m~/Documents/NetProg/2[00m$ exit
+exit
+
+Script done on 2023-02-28 15:48:52+05:30 [COMMAND_EXIT_CODE="0"]
