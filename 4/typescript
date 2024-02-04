@@ -1,0 +1,9 @@
+Script started on 2023-04-18 13:53:50+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="143" LINES="12"]
+]0;rskbansal@tuf: ~/Documents/NetProg/4[01;32mrskbansal@tuf[00m:[01;34m~/Documents/NetProg/4[00m$ gcc -o output main.c
+]0;rskbansal@tuf: ~/Documents/NetProg/4[01;32mrskbansal@tuf[00m:[01;34m~/Documents/NetProg/4[00m$ ./output example.com
+Succesful GET on example.com and contents saved in test.html
+
+]0;rskbansal@tuf: ~/Documents/NetProg/4[01;32mrskbansal@tuf[00m:[01;34m~/Documents/NetProg/4[00m$ exit
+exit
+
+Script done on 2023-04-18 13:54:12+05:30 [COMMAND_EXIT_CODE="0"]
