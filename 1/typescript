@@ -1,0 +1,20 @@
+Script started on 2023-02-10 17:39:15+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="203" LINES="55"]
+]0;rskbansal@tuf: ~/Documents/NetProg[01;32mrskbansal@tuf[00m:[01;34m~/Documents/NetProg[00m$ gcc -o output main.c
+]0;rskbansal@tuf: ~/Documents/NetProg[01;32mrskbansal@tuf[00m:[01;34m~/Documents/NetProg[00m$ ./output
+I am the parent process
+My PID is : 8386
+My child's PID is : 8387
+
+I am the child process
+My PID is : 8387
+My parent's PID is : 8386
+
+I am the parent process
+My PID is : 8386
+The child has now exited successfully
+My child's PID was : 8387
+
+]0;rskbansal@tuf: ~/Documents/NetProg[01;32mrskbansal@tuf[00m:[01;34m~/Documents/NetProg[00m$ exit
+exit
+
+Script done on 2023-02-10 17:39:38+05:30 [COMMAND_EXIT_CODE="0"]
