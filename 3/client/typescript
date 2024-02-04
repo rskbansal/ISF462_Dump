@@ -1,0 +1,21 @@
+Script started on 2023-03-31 18:06:49+05:30 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="98" LINES="55"]
+]0;rskbansal@tuf: ~/Documents/NetProg/3/client[01;32mrskbansal@tuf[00m:[01;34m~/Documents/NetProg/3/client[00m$ gcc -o client client.c
+]0;rskbansal@tuf: ~/Documents/NetProg/3/client[01;32mrskbansal@tuf[00m:[01;34m~/Documents/NetProg/3/client[00m$ ./client
+Enter the IP Address : 10.30.33.123
+Enter the port number : 5000
+
+Connected to the server successfully
+
+Enter the string to be sent : rhythm
+Enter the string to be sent : bansal
+Enter the string to be sent : 2021
+Enter the string to be sent : A& 7
+Enter the string to be sent : PS
+Enter the string to be sent : 2430G
+Enter the string to be sent : quit
+
+Client disconnected
+]0;rskbansal@tuf: ~/Documents/NetProg/3/client[01;32mrskbansal@tuf[00m:[01;34m~/Documents/NetProg/3/client[00m$ exo[Kit
+exit
+
+Script done on 2023-03-31 18:08:11+05:30 [COMMAND_EXIT_CODE="0"]
